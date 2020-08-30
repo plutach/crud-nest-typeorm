@@ -1,7 +1,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) Nestjs Typescript CRUD application with TypeORM.
+[Nest](https://github.com/nestjs/nest) Typescript CRUD application with TypeORM.
 
 ## Installation
 
